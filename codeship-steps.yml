@@ -1,0 +1,2 @@
+- service: awsdeployment
+  command: codeship-aws-eb-deploy- /deploy node-app1 node1 ec2mount1122
